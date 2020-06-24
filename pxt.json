@@ -1,0 +1,15 @@
+{
+    "name": "battle_city_code",
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
